@@ -1,18 +1,17 @@
-# Quiz GitHub - [NIM]
+# Quiz GitHub - [A11.2023.15200]
 
 ## Profile
 
 | Field  | Detail                                          |
 |--------|-------------------------------------------------|
 | Name   | Muhammad Afrille Samudra                        |
-| NIM    | A11.2023.15200                                  |
+| NIM    | A12345678                                       |
 | Class  | Informatics Engineering                         |
 | Course | Web Development with Laravel                    |
 
 ## About Me
 
-I'm an Informatics Engineering student at Universitas Dian Nuswantoro (UDINUS), Semarang.
-Currently learning web development with Laravel, React.js, and exploring various tech stacks.
+Informatics Engineering student at UDINUS | Web & Game Dev · Frontend & Backend · ML/DL Enthusiast · Always learning something new in tech.
 
 ## Tech Stack
 
@@ -23,8 +22,10 @@ Currently learning web development with Laravel, React.js, and exploring various
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
 ## Projects
 
@@ -47,14 +48,17 @@ Currently learning web development with Laravel, React.js, and exploring various
 ### Side Projects
 | Project | Tech Stack | Status |
 |---------|------------|--------|
-| Download Manager | — | ✅ Completed |
-| Personal Command Center | — | ✅ Completed |
-| Dev Lab Hub | — | ✅ Completed |
-| Nexus Hub (IT Ticketing) | — | ✅ Completed |
+| Download Manager | Python, JSON | ✅ Completed |
+| Personal Command Center | TypeScript | ✅ Completed |
+| Dev Lab Hub | Android Studio (Java/Kotlin) | 🚧 On Going |
+| Nexus Hub (IT Ticketing) | TypeScript (TSX) | ✅ Completed |
 | Adblocker Extension | JavaScript | ✅ Completed |
-| Portfolio / Agency Website | — | 🚧 On Going |
+| Portfolio / Agency Website | TypeScript | 🚧 On Going |
 | Birthday Webpage | HTML, CSS, JavaScript | ✅ Completed |
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-afrille-samudra-59aa08392)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-afrille-samudra-59aa08392)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/mas.samudra18)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mas.samudra18)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/samudraehek18)
