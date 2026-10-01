@@ -5,7 +5,7 @@
 | Field  | Detail                                          |
 |--------|-------------------------------------------------|
 | Name   | Muhammad Afrille Samudra                        |
-| NIM    | A12345678                                       |
+| NIM    | A11.2023.15200                                  |
 | Class  | Informatics Engineering                         |
 | Course | Web Development with Laravel                    |
 
